@@ -1,4 +1,5 @@
 {  
+  "scriptFile": "ChatGPTBotSlack.js",
   "bindings": [  
     {  
       "authLevel": "function",  
