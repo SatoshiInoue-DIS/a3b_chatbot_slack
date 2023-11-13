@@ -10,6 +10,7 @@
     "@azure/functions": "^4.0.0",
     "@azure/openai": "^1.0.0-beta.7",
     "@slack/web-api": "^6.9.1",
+    "azure-openai": "^0.9.4",
     "openai": "^4.17.3"
   },
   "main": "src/functions/*.js"
