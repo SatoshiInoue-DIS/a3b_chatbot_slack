@@ -3,7 +3,7 @@ const {
   ChatCompletionRequestMessageRoleEnum,
   Configuration,
   OpenAIApi,
-} = require("openai");
+} = require("azure-openai");//import ステートメントを「openai 」から「 azure-openai 」に更新
 
 const openaiClient = new OpenAIApi(
   new Configuration({
